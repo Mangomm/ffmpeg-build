@@ -1,0 +1,12 @@
+prefix=/home/ffmpegBuild/build/harfbuzz
+exec_prefix=/home/ffmpegBuild/build/harfbuzz
+libdir=/home/ffmpegBuild/build/harfbuzz/lib
+includedir=/home/ffmpegBuild/build/harfbuzz/include
+
+Name: harfbuzz subsetter
+Description: HarfBuzz font subsetter
+Version: 4.3.0
+
+Requires: harfbuzz = 4.3.0
+Libs: -L${libdir} -lharfbuzz-subset
+Cflags: -I${includedir}/harfbuzz

@@ -1,0 +1,7 @@
+ffmpeg-4.3是使用libass源码得出的。
+ffmpeg-4.3-bk是使用pacman源码包下载libass得出的。
+注意，ffmpeg版本都是4.2编译得出的，只不过目录名是4.3。
+
+libfreetype-bk是没有依赖harfbuzz编译得出的(--without-harfbuzz)，而libfreetype是依赖harfbuzz得出的(--with-harfbuzz)。
+
+如果想使用ffmpeg进行开发并不想自己再次编译所有的库，ffmepg-4.3目录里面的内容可以直接拷贝去使用即可，支持静态库以及动态库。
