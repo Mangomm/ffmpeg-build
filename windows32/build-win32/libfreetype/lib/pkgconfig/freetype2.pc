@@ -1,0 +1,14 @@
+prefix=/home/ffmpegBuild/build-win32/libfreetype
+exec_prefix=/home/ffmpegBuild/build-win32/libfreetype
+libdir=/home/ffmpegBuild/build-win32/libfreetype/lib
+includedir=/home/ffmpegBuild/build-win32/libfreetype/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 24.3.18
+Requires: 
+Requires.private: zlib, libbrotlidec
+Libs: -L/home/ffmpegBuild/build-win32/libfreetype/lib -lfreetype
+Libs.private: 
+Cflags: -I${includedir}/freetype2
