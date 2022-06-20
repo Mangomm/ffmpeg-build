@@ -1,0 +1,78 @@
+libMpegTPEnc/src/tpenc_lib.lo: libMpegTPEnc/src/tpenc_lib.cpp \
+ libMpegTPEnc/include/tpenc_lib.h libMpegTPEnc/include/tp_data.h \
+ libSYS/include/machine_type.h \
+ D:/English_Software/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/stddef.h \
+ D:/English_Software/msys2/mingw64/include/stddef.h \
+ D:/English_Software/msys2/mingw64/include/crtdefs.h \
+ D:/English_Software/msys2/mingw64/include/corecrt.h \
+ D:/English_Software/msys2/mingw64/include/_mingw.h \
+ D:/English_Software/msys2/mingw64/include/_mingw_mac.h \
+ D:/English_Software/msys2/mingw64/include/_mingw_secapi.h \
+ D:/English_Software/msys2/mingw64/include/vadefs.h \
+ D:/English_Software/msys2/mingw64/include/sdks/_mingw_ddk.h \
+ D:/English_Software/msys2/mingw64/include/assert.h \
+ D:/English_Software/msys2/mingw64/include/c++/12.1.0/stdlib.h \
+ D:/English_Software/msys2/mingw64/include/c++/12.1.0/cstdlib \
+ D:/English_Software/msys2/mingw64/include/c++/12.1.0/x86_64-w64-mingw32/bits/c++config.h \
+ D:/English_Software/msys2/mingw64/include/c++/12.1.0/x86_64-w64-mingw32/bits/os_defines.h \
+ D:/English_Software/msys2/mingw64/include/c++/12.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+ D:/English_Software/msys2/mingw64/include/c++/12.1.0/pstl/pstl_config.h \
+ D:/English_Software/msys2/mingw64/include/stdlib.h \
+ D:/English_Software/msys2/mingw64/include/corecrt_wstdlib.h \
+ D:/English_Software/msys2/mingw64/include/limits.h \
+ D:/English_Software/msys2/mingw64/include/sec_api/stdlib_s.h \
+ D:/English_Software/msys2/mingw64/include/malloc.h \
+ D:/English_Software/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/mm_malloc.h \
+ D:/English_Software/msys2/mingw64/include/errno.h \
+ D:/English_Software/msys2/mingw64/include/c++/12.1.0/bits/std_abs.h \
+ libSYS/include/FDK_audio.h libSYS/include/machine_type.h \
+ libSYS/include/genericStds.h libSYS/include/syslib_channelMapDescr.h \
+ libFDK/include/FDK_bitstream.h libFDK/include/FDK_bitbuffer.h \
+ libFDK/include/FDK_archdef.h libSYS/include/genericStds.h \
+ libMpegTPEnc/src/tp_version.h libMpegTPEnc/src/tpenc_asc.h \
+ libMpegTPEnc/src/tpenc_adts.h libMpegTPDec/include/tp_data.h \
+ libFDK/include/FDK_crc.h libFDK/include/FDK_bitstream.h \
+ libMpegTPEnc/src/tpenc_adif.h libMpegTPEnc/src/tpenc_latm.h
+libMpegTPEnc/include/tpenc_lib.h:
+libMpegTPEnc/include/tp_data.h:
+libSYS/include/machine_type.h:
+D:/English_Software/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/stddef.h:
+D:/English_Software/msys2/mingw64/include/stddef.h:
+D:/English_Software/msys2/mingw64/include/crtdefs.h:
+D:/English_Software/msys2/mingw64/include/corecrt.h:
+D:/English_Software/msys2/mingw64/include/_mingw.h:
+D:/English_Software/msys2/mingw64/include/_mingw_mac.h:
+D:/English_Software/msys2/mingw64/include/_mingw_secapi.h:
+D:/English_Software/msys2/mingw64/include/vadefs.h:
+D:/English_Software/msys2/mingw64/include/sdks/_mingw_ddk.h:
+D:/English_Software/msys2/mingw64/include/assert.h:
+D:/English_Software/msys2/mingw64/include/c++/12.1.0/stdlib.h:
+D:/English_Software/msys2/mingw64/include/c++/12.1.0/cstdlib:
+D:/English_Software/msys2/mingw64/include/c++/12.1.0/x86_64-w64-mingw32/bits/c++config.h:
+D:/English_Software/msys2/mingw64/include/c++/12.1.0/x86_64-w64-mingw32/bits/os_defines.h:
+D:/English_Software/msys2/mingw64/include/c++/12.1.0/x86_64-w64-mingw32/bits/cpu_defines.h:
+D:/English_Software/msys2/mingw64/include/c++/12.1.0/pstl/pstl_config.h:
+D:/English_Software/msys2/mingw64/include/stdlib.h:
+D:/English_Software/msys2/mingw64/include/corecrt_wstdlib.h:
+D:/English_Software/msys2/mingw64/include/limits.h:
+D:/English_Software/msys2/mingw64/include/sec_api/stdlib_s.h:
+D:/English_Software/msys2/mingw64/include/malloc.h:
+D:/English_Software/msys2/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/mm_malloc.h:
+D:/English_Software/msys2/mingw64/include/errno.h:
+D:/English_Software/msys2/mingw64/include/c++/12.1.0/bits/std_abs.h:
+libSYS/include/FDK_audio.h:
+libSYS/include/machine_type.h:
+libSYS/include/genericStds.h:
+libSYS/include/syslib_channelMapDescr.h:
+libFDK/include/FDK_bitstream.h:
+libFDK/include/FDK_bitbuffer.h:
+libFDK/include/FDK_archdef.h:
+libSYS/include/genericStds.h:
+libMpegTPEnc/src/tp_version.h:
+libMpegTPEnc/src/tpenc_asc.h:
+libMpegTPEnc/src/tpenc_adts.h:
+libMpegTPDec/include/tp_data.h:
+libFDK/include/FDK_crc.h:
+libFDK/include/FDK_bitstream.h:
+libMpegTPEnc/src/tpenc_adif.h:
+libMpegTPEnc/src/tpenc_latm.h:
